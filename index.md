@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta http-equiv="refresh" content="0; url=v4/">
         <script type="text/javascript">
-            window.location.href = "v4/";
+            window.location.href = "test.html";
         </script>
         <title>Page Redirection</title>
     </head>
